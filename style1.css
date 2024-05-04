@@ -1,0 +1,34 @@
+*{
+    margin:o;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    margin:0 10px;
+}
+.top{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.top input::placeholder {
+    text-align: center;
+}
+.imageclass{
+    width:200px;
+    height: 140px;
+}
+.container{
+    display:flex;
+}
+
+.imgclass2{
+    border-radius:999px;
+}
+
+.new22{
+    width: 100%;
+    height: 40vh;
+}
